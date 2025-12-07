@@ -1,0 +1,10 @@
+model,filtered_accuracy
+CRAG,0.851971373
+MAINRAG,0.819609629
+MoRA RAG,0.945348081
+Vanilla RAG,0.836044242
+claude-sonnet-4,0.495066744
+gemini-2.5-flash,0.73129473
+gemma3_27b,0.73540917
+gpt-5-nano,0.603773585
+gpt-oss-20b,0.651031895
